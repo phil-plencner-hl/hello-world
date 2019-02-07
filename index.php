@@ -7,7 +7,7 @@
 <body>
 
     <h1>Hello World</h1>
-    <img src='/images/hotdog.jpg' alt='Chicago Style Hot Dog'>
+    <img src='images/hotdog.jpg' alt='Chicago Style Hot Dog'>
 
 </body>
 </html>
